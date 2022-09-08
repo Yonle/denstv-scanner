@@ -126,7 +126,7 @@ function scan() {
     .on("abort", scan);
 }
 
-console.log("UseeTV Scanner ---");
+console.log("DensTV Scanner ---");
 console.log(
   "Scanner may take several minutes to complete\n" +
   "Depending of your network connection. Please wait."
