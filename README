@@ -5,3 +5,15 @@ The code inside is only used for educational purpose and not intended for commer
 You could use this code, with exception:
 - Warranty
 - Liability
+
+Scanning
+======== 
+There are two script in this repository. index.35.js and index.37.js. Both scripts have the same task, except the difference between the two scripts is that they scan on different hosts.
+
+To start scanning, Simple run:
+
+  $ node index.35.js
+
+or
+
+  $ node index.37.js
