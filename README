@@ -17,3 +17,5 @@ To start scanning, Simple run:
 or
 
   $ node index.37.js
+
+Please note, that DensTV only work for several Indonesia ISP.
