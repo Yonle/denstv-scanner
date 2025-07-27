@@ -1,3 +1,7 @@
+No longer maintained. Use go-denstv-scanner instead: https://github.com/Yonle/go-denstv-scanner
+
+---
+
 This is a simple javascript script that scan an available channel from dens.tv including Premium ones.
 
 The code inside is only used for educational purpose and not intended for commercial use. We are not responsible for any risk when you use this script and the scan results.
